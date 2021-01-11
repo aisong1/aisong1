@@ -1,4 +1,4 @@
-[![Header](https://github.com/aisong1/aisong1/blob/main/githubBanner.png "Header")]
+![Header](https://github.com/aisong1/aisong1/blob/main/githubBanner.png "Header")
 
 # Hey y'all! :ocean:
 [![Linkedin Badge](https://img.shields.io/badge/-andrewisong-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewisong/)](https://www.linkedin.com/in/andrewisong/)
