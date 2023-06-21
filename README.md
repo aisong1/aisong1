@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-andrewisong-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewisong/)](https://www.linkedin.com/in/andrewisong/)
 [![Gmail Badge](https://img.shields.io/badge/-andrewsong61-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrewsong61@gmail.com)](mailto:andrewsong61@gmail.com)
 
-My name is Andrew Song (he/him) and I am software engineer based out of Seattle, WA. I love meeting new people just as much as I love coding, so don't be a stranger and feel free to connect via LinkedIn or email! 
+My name is Andrew Song (he/him) and I am software engineer based out of Las Vegas, NV. I love meeting new people just as much as I love coding, so don't be a stranger and feel free to connect via LinkedIn or email! 
 
 
 ### Tech Stack :hammer_and_wrench:
